@@ -2,7 +2,7 @@
 
 Sou estudante de **Ciência da Computação** e atualmente atuo como **estagiário no BNDES**. Tenho interesse em desenvolver soluções robustas, escaláveis e bem estruturadas, sempre buscando aplicar boas práticas de desenvolvimento de software.
 
-Meu foco atual está em **Engenharia de Software**, com ênfase no desenvolvimento **Backend** e **Mobile**, utilizando principalmente **Java**, **Kotlin** e **Python**.
+Meu foco atual está em **Engenharia de Software**, com ênfase no desenvolvimento **Backend**, utilizando principalmente **Java** e **Python**.
 
 Além da experiência profissional, também participo de uma **Iniciação Científica**, onde desenvolvo habilidades de pesquisa, análise e resolução de problemas, complementando minha formação técnica.
 
@@ -15,7 +15,6 @@ Além da experiência profissional, também participo de uma **Iniciação Cient
 ### Linguagens
 
 * Java
-* Kotlin
 * Python
 * SQL
 
@@ -25,12 +24,6 @@ Além da experiência profissional, também participo de uma **Iniciação Cient
 * APIs REST
 * JUnit e Mockito
 
-### Desenvolvimento Mobile
-
-* Android
-* Jetpack Compose
-* Kotlin
-
 ### Banco de Dados
 
 * PostgreSQL
@@ -39,9 +32,7 @@ Além da experiência profissional, também participo de uma **Iniciação Cient
 
 * Git & GitHub
 * Docker
-* Gradle
-* IntelliJ IDEA
-* Android Studio
+* Gradle / Maven
 
 ---
 
@@ -49,6 +40,7 @@ Além da experiência profissional, também participo de uma **Iniciação Cient
 
 * Arquitetura de Software
 * Desenvolvimento Backend com Java e Spring Boot
+* Engenharia de dados
 * Desenvolvimento Android com Kotlin
 * Docker
 * Bancos de dados relacionais e NoSQL
@@ -60,7 +52,7 @@ Além da experiência profissional, também participo de uma **Iniciação Cient
 
 ### 💼 Estágio  — BNDES
 
-Atuo com o desenvolvimento e manutenção de ingestões de dados com Python, através de requisições a API's, leitura de arquivos e WebSrapping.   
+Atuo com o desenvolvimento e manutenção de ingestões de dados com Python, através de requisições a API's, leitura de arquivos e Web Scraping.   
 Outra experiência importante é que também atuei no desenvolvimento e manutenção de uma aplicação com Java e React.  
 Além de ver na prática problemas da ciência da computação como Threads, redes de computadores e POO, também tive contato com boas práticas de mercado como versionamento de código com Git & GitLab e metodologias ágeis. 
 
@@ -78,7 +70,7 @@ Integrando Tecnologia e Cidadania Ativa tem como objetivo promover a divulgaçã
 Neste perfil você encontrará projetos relacionados a:
 
 * Desenvolvimento Backend com Java e Spring Boot
-* Desenvolvimento Android com Kotlin
+* Engenharia de dados
 * APIs REST
 * Engenharia de Software
 * Estudos e experimentos com Python
