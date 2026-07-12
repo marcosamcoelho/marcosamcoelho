@@ -2,7 +2,7 @@
 
 Sou estudante de **Ciência da Computação** e atualmente atuo como **estagiário no BNDES**. Tenho interesse em desenvolver soluções robustas, escaláveis e bem estruturadas, sempre buscando aplicar boas práticas de desenvolvimento de software.
 
-Meu foco atual está em **Engenharia de dados**, utilizando principalmente **Python**.
+Meu foco atual está em **Engenharia de dados** e **desenvolvimento backend**, utilizando principalmente **Python** e **Java**.
 
 Além da experiência profissional, também participo de uma **Iniciação Científica**, onde desenvolvo habilidades de pesquisa, análise e resolução de problemas, complementando minha formação técnica.
 
